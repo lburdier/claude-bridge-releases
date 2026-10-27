@@ -1,6 +1,6 @@
 [English](README.md) · **Français**
 
-# Claude Bridge — releases
+# Claude Bridge: releases
 
 Téléchargements officiels de **Claude Bridge**, gestionnaire multi-comptes Claude pour Windows
 (espace Code façon Claude Code Desktop, workflows à nœuds, statistiques de tokens, bascule de comptes).

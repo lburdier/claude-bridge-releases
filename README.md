@@ -1,17 +1,19 @@
+**English** · [Français](README.fr.md)
+
 # Claude Bridge — releases
 
-Téléchargements officiels de **Claude Bridge**, gestionnaire multi-comptes Claude pour Windows
-(espace Code façon Claude Code Desktop, workflows à nœuds, statistiques de tokens, bascule de comptes).
+Official downloads of **Claude Bridge**, a multi-account Claude manager for Windows
+(a Code workspace in the style of Claude Code Desktop, node-based workflows, token statistics, account switching).
 
-Ce dépôt ne contient que les exécutables et leurs métadonnées de mise à jour ; le code source est privé.
+This repository only contains the executables and their update metadata; the source code is private.
 
-## Installer
+## Install
 
-Dernière version : [Releases](https://github.com/lburdier/claude-bridge-releases/releases/latest)
+Latest version: [Releases](https://github.com/lburdier/claude-bridge-releases/releases/latest)
 
-- `Claude-Bridge-Setup-x.y.z.exe` : installeur, **mises à jour automatiques** intégrées.
-- `Claude-Bridge-x.y.z-portable.exe` : version portable ; l'app signale les nouvelles versions.
+- `Claude-Bridge-Setup-x.y.z.exe`: installer, with built-in **automatic updates**.
+- `Claude-Bridge-x.y.z-portable.exe`: portable version; the app tells you when a new version is out.
 
-Les exécutables ne sont pas signés : Windows SmartScreen peut demander « Informations complémentaires » puis « Exécuter quand même ».
+The executables are not signed: Windows SmartScreen may ask you to click "More info", then "Run anyway".
 
-Prérequis : [Claude Code](https://claude.com/claude-code) installé.
+Requirement: [Claude Code](https://claude.com/claude-code) installed.
